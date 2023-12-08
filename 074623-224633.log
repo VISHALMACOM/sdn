@@ -1,0 +1,5 @@
+CURL COMMANDS TO GET STATS OF THE SWITCHES
+[3, 2]CURL COMMANDS TO DESCRIPTION STATS OF THE SWITCHES
+CURL COMMANDS TO GET FLOW STATS OF THE SWITCHES
+CURL COMMANDS TO GET PORT STATS OF THE SWITCHES
+{"1": [{"rx_packets": 0, "tx_packets": 0, "rx_bytes": 0, "tx_bytes": 0, "rx_dropped": 103, "tx_dropped": 0, "rx_errors": 0, "tx_errors": 0, "rx_frame_err": 0, "rx_over_err": 0, "rx_crc_err": 0, "collisions": 0, "duration_sec": 89, "duration_nsec": 283000000, "port_no": "LOCAL"}, {"rx_packets": 12, "tx_packets": 121, "rx_bytes": 1016, "tx_bytes": 14054, "rx_dropped": 0, "tx_dropped": 0, "rx_errors": 0, "tx_errors": 0, "rx_frame_err": 0, "rx_over_err": 0, "rx_crc_err": 0, "collisions": 0, "duration_sec": 89, "duration_nsec": 304000000, "port_no": 1}, {"rx_packets": 97, "tx_packets": 33, "rx_bytes": 11039, "tx_bytes": 3741, "rx_dropped": 0, "tx_dropped": 0, "rx_errors": 0, "tx_errors": 0, "rx_frame_err": 0, "rx_over_err": 0, "rx_crc_err": 0, "collisions": 0, "duration_sec": 89, "duration_nsec": 305000000, "port_no": 2}]}
