@@ -1,0 +1,5 @@
+CURL COMMANDS TO GET STATS OF THE SWITCHES
+[3, 2]CURL COMMANDS TO DESCRIPTION STATS OF THE SWITCHES
+{"1": {"mfr_desc": "Nicira, Inc.", "hw_desc": "Open vSwitch", "sw_desc": "2.13.8", "serial_num": "None", "dp_desc": "None"}}CURL COMMANDS TO GET FLOW STATS OF THE SWITCHES
+CURL COMMANDS TO GET PORT STATS OF THE SWITCHES
+{"1": [{"rx_packets": 0, "tx_packets": 0, "rx_bytes": 0, "tx_bytes": 0, "rx_dropped": 161, "tx_dropped": 0, "rx_errors": 0, "tx_errors": 0, "rx_frame_err": 0, "rx_over_err": 0, "rx_crc_err": 0, "collisions": 0, "duration_sec": 2427, "duration_nsec": 100000000, "port_no": "LOCAL"}, {"rx_packets": 35, "tx_packets": 199, "rx_bytes": 2802, "tx_bytes": 20734, "rx_dropped": 0, "tx_dropped": 0, "rx_errors": 0, "tx_errors": 0, "rx_frame_err": 0, "rx_over_err": 0, "rx_crc_err": 0, "collisions": 0, "duration_sec": 2427, "duration_nsec": 115000000, "port_no": 1}, {"rx_packets": 165, "tx_packets": 68, "rx_bytes": 16748, "tx_bytes": 6678, "rx_dropped": 0, "tx_dropped": 0, "rx_errors": 0, "tx_errors": 0, "rx_frame_err": 0, "rx_over_err": 0, "rx_crc_err": 0, "collisions": 0, "duration_sec": 2427, "duration_nsec": 115000000, "port_no": 2}]}
