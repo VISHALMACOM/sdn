@@ -1,4 +1,4 @@
-filename=$(date +"%d%M%y-%H%M%S")
+filename=$(date +"%d%M%y-%H%M%S").log
 echo $filename
 echo "CURL COMMANDS TO GET STATS OF THE SWITCHES" >> $filename
 sleep 0.2
